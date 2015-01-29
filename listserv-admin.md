@@ -1,4 +1,4 @@
-# Listserv Admin
+# Listserv Admin Commands
 
 ## Approving new members
 ```
