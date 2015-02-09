@@ -1,6 +1,6 @@
 # Webinar Roadmap
 
-* Recruit Volunteers
+* ~~Recruit Volunteers~~
 * Convene Volunteers, provide instructions
 * Explain new model with members, with video explanation?
 * Record presentations with volunteers
