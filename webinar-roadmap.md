@@ -16,7 +16,7 @@ Volunteers would do a "book report" webinar for a section of the book. In the pr
 - Read your assigned chapters
 - Create powerpoint presentation that: 1) Summarizes the chapters, 2) Integrates examples from your work, 3) Add additional resources you found
 - Share presentation and get feedback from John
-- Reconvene as a group to strategize
+- Reconvene as a group to strategize - Mar 17
 - Schedule time for recording presentation
 - Record presentation as conversation with John or someone else
 - Participate in discussions
