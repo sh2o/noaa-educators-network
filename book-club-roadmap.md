@@ -1,7 +1,7 @@
 # Book Club Roadmap
 
 * ~~Recruit Volunteers~~
-* Convene Volunteers, provide instructions
+* ~~Convene Volunteers, provide instructions~~
 * Explain new model with members, with video explanation?
 * Record presentations with volunteers
 * Release presentations
@@ -10,6 +10,16 @@
 * Recruit final presentations
 * Record final presentations
 * Follow up in 6 months, where are they now?
+
+## Volunteer Instructions
+- Read your assigned chapters
+- Create powerpoint presentation that:
+..- Summarizes the chapters
+..- Integrates examples from your program
+- Feedback from John
+- Schedule time for recording presentation with John
+- Record presentation as conversation with John
+- Participate in discussions
 
 ## Project Description
 As part of the next phase of the NOAA Educators Network webinar series, we're working on a series about Fostering Behavior Change. Capacity-building webinars through the NOAA Educators Network based loosely on an online course offered by Duke called [Environmental Communication for Behavior Change course]  (http://nicholas.duke.edu/del/environmental-communication-behavior-change) Network members reads the course's primary text, then review, discuss and walkthrough the book in 3 or 4 sections over a few months. The text is free and available online: (http://www.cbsm.com/pages/guide/preface/)
