@@ -13,7 +13,7 @@
 
 ## Volunteer Instructions
 - Read your assigned chapters
-- Create powerpoint presentation that: 1) Summarizes the chapters, 2) Integrates examples from your work
+- Create powerpoint presentation that: 1) Summarizes the chapters, 2) Integrates examples from your work, 3) Add additional resources you found
 - Share presentation and get feedback from John
 - Schedule time for recording presentation
 - Record presentation as conversation with John or someone else
