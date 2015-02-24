@@ -21,6 +21,11 @@ Volunteers would do a "book report" webinar for a section of the book. In the pr
 - Record presentation as conversation with John or someone else
 - Participate in discussions
 
+## Presentation Guidelines
+- Presentation length about 15 to 20 minutes, 10-12 slides
+- Your summary, what questions did it raise? what don’t you understand? what do you want to learn more about? How does it apply to your work?
+
+
 ## Project Description
 As part of the next phase of the NOAA Educators Network webinar series, we're working on a series about Fostering Behavior Change. Capacity-building webinars through the NOAA Educators Network based loosely on an online course offered by Duke called [Environmental Communication for Behavior Change course]  (http://nicholas.duke.edu/del/environmental-communication-behavior-change) Network members reads the course's primary text, then review, discuss and walkthrough the book in 3 or 4 sections over a few months. The text is free and available online: (http://www.cbsm.com/pages/guide/preface/)
 
