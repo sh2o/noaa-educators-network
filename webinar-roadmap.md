@@ -22,7 +22,7 @@ Volunteers would do a "book report" webinar for a section of the book. In the pr
 - Participate in discussions
 
 ## Presentation Guidelines
-- Presentation length about 15 to 20 minutes, 10-12 slides
+- Presentation length about 30 minutes, 15-20 slides
 - Your summary, what questions did it raise? what don’t you understand? what do you want to learn more about? How does it apply to your work?
 
 
