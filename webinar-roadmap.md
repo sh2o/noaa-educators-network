@@ -25,16 +25,19 @@ Volunteers would do a "book report" webinar for a section of the book. In the pr
 - Introduction
 - Step 1
 - Step 2
+
 #### Bronwen
 - Step 3
 - Commitment
 - Social Norms
 - Social Diffusion
+
 #### Melanie
 - Prompting
 - Communication
 - Incentives
 - Convenience
+
 #### Leah
 - Strategies Revisited
 - Step 4
