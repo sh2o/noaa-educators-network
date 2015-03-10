@@ -8,3 +8,9 @@ Not exactly sure how best to facilitate the discussion element, still mulling ov
 There would be a "final project" (similar to the Duke course), we ask interested network members to develop a plan targeted to one specific audience and aimed at changing one behavior. We'd provide a template so it's not too much burden. Another webinar would bring on a few people to present the plans they have developed.
 
 A follow up webinar in six months asks how people did so far.
+
+## Bibliography
+
+Fostering Sustainable Behavior: Community-based Social Marketing. http://www.cbsm.com/pages/guide/preface/
+
+World Development Report 2015: Mind, Society, and Behavior. http://www.worldbank.org/en/publication/wdr2015
