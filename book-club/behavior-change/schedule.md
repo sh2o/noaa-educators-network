@@ -4,9 +4,7 @@
 
 ## April - Module 1
 - Read these chapters
-
-..* [Fostering Sustainable Behaviors][1], [Step 1: Selecting Behaviors][2], [Step 2: Identifying Barriers and Results][3]
-
+  - [Fostering Sustainable Behaviors][1], [Step 1: Selecting Behaviors][2], [Step 2: Identifying Barriers and Results][3]
 - Volunteer: Mark Wiley, New Hampshire Sea Grant
 - Watch Presentation
 - Discuss Module 1, conference call on April XX, 2015 from #-#pm ET
