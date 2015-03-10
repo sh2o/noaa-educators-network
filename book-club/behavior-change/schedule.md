@@ -2,6 +2,7 @@
 - About Book Club, materials, schedule, instructions
 
 ## April - Module 1
+- Read: 
 
 ## May - Module 2
 
