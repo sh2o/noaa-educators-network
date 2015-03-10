@@ -1,4 +1,4 @@
-# Book Club Roadmap
+# Book Club Process Map
 
 * ~~Recruit Volunteers~~
 * ~~Convene Volunteers, provide instructions~~
