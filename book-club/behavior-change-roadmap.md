@@ -21,29 +21,6 @@ Volunteers would do a "book report" webinar for a section of the book. In the pr
 - Record presentation as conversation with John or someone else
 - Participate in discussions
 
-#### Mark
-- Introduction
-- Step 1
-- Step 2
-
-#### Bronwen
-- Step 3
-- Commitment
-- Social Norms
-- Social Diffusion
-
-#### Melanie
-- Prompting
-- Communication
-- Incentives
-- Convenience
-
-#### Leah
-- Strategies Revisited
-- Step 4
-- Step 5
-- Concluding Thoughts
-
 ## Presentation Guidelines
 - Presentation length about 30 minutes, 15-20 slides
 - Your summary, what questions did it raise? what don’t you understand? what do you want to learn more about? How does it apply to your work?
