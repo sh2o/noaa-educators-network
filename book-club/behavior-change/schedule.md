@@ -3,7 +3,7 @@
 - Watch presentation
 
 ## April - Module 1
-- Read: Introduction, Step 1, Step 2
+- Read Chapters: [Fostering Sustainable Behaviors][1], [Step 1: Selecting Behaviors][2], Step 2
 - Volunteer: Mark Wiley, New Hampshire Sea Grant
 - Watch Presentation
 - Discuss Module 1, conference call on April XX, 2015 from #-#pm ET
@@ -29,3 +29,16 @@
 ## August - Final Project
 - Develop communication plan for behavior change (see examples)
 - Discuss Final Project, conference call on August XX, 2015 from #-#pm ET
+
+[1]:http://www.cbsm.com/pages/guide/fostering-sustainable-behavior/
+[2]:http://www.cbsm.com/pages/guide/step-1:-selecting-behaviors/
+[3]:
+[4]:
+[5]:
+[6]:
+[7]:
+[8]:
+[9]:
+[10]:
+[11]:
+[12]:
