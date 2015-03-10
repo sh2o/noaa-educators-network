@@ -43,6 +43,8 @@
 
 ## August - Final Project
 - Develop communication plan for behavior change (see examples)
+- Instructions
+- Rubric, Bonus Points for each collaboration with NOAA Educator.
 - Discuss Final Project, conference call on August XX, 2015 from #-#pm ET
 
 [1]:http://www.cbsm.com/pages/guide/fostering-sustainable-behavior/
