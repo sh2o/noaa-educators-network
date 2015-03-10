@@ -4,25 +4,39 @@
 
 ## April - Module 1
 - Read these chapters
-  - [Fostering Sustainable Behaviors][1], [Step 1: Selecting Behaviors][2], [Step 2: Identifying Barriers and Results][3]
+  - [Fostering Sustainable Behaviors][1]
+  - [Step 1: Selecting Behaviors][2]
+  - [Step 2: Identifying Barriers and Results][3]
 - Volunteer: Mark Wiley, New Hampshire Sea Grant
 - Watch Presentation
 - Discuss Module 1, conference call on April XX, 2015 from #-#pm ET
 
 ## May - Module 2
-- Read: [Step 3: Developing Strategies][4], [Commitment: Good Intentions to Action][5], [Social Norms: Building Community Support][6], [Social Diffusion: Speeding Adoption][7]
+- Read these chapters
+  - [Step 3: Developing Strategies][4]
+  - [Commitment: Good Intentions to Action][5]
+  - [Social Norms: Building Community Support][6]
+  - [Social Diffusion: Speeding Adoption][7]
 - Volunteer: Bronwen Rice, B-WET Program
 - Watch Presentation
 - Discuss Module 2, conference call on May XX, 2015 from #-#pm ET
 
 ## June - Module 3
-- Read: [Prompting: Remembering to Act][8], [Communication: Creating Effective Messages][9], [Incentives: Enhancing Motivation to Act][10], [Convenience: Making It Easy to Act][11]
+- Read these chapters
+  - [Prompting: Remembering to Act][8]
+  - [Communication: Creating Effective Messages][9]
+  - [Incentives: Enhancing Motivation to Act][10]
+  - [Convenience: Making It Easy to Act][11]
 - Volunteer: Melanie Reding, Jacques Cousteau NERR
 - Watch Presentation
 - Discuss Module 3, conference call on June XX, 2015 from #-#pm ET
 
 ## July - Module 4
-- Read [Developing Strategies Revisited][12], [Step 4: Piloting][13], [Step 5: Broad Scale Implementation][14], [Concluding Thoughts][15]
+- Read these chapters
+  - [Developing Strategies Revisited][12]
+  - [Step 4: Piloting][13]
+  - [Step 5: Broad Scale Implementation][14]
+  - [Concluding Thoughts][15]
 - Volunteer: Leah Henry, Marine Debris Program
 - Watch Presentation
 - Discuss Module 4, conference call on July XX, 2015 from #-#pm ET
