@@ -8,3 +8,19 @@ Not exactly sure how best to facilitate the discussion element, still mulling ov
 There would be a "final project" (similar to the Duke course), we ask interested network members to develop a plan targeted to one specific audience and aimed at changing one behavior. We'd provide a template so it's not too much burden. Another webinar would bring on a few people to present the plans they have developed.
 
 A follow up webinar in six months asks how people did so far.
+
+#### Module 1
+- Read: Introduction, Step 1, Step 2
+- Volunteer: Mark
+
+#### Module 2
+- Read: Step 3, Commitment, Social Norms, Social Diffusion
+- Volunteer: Bronwen
+
+#### Module 3
+- Read: Prompting, Communication, Incentives, Convenience
+- Volunteer: Melanie
+
+#### Module 4
+- Read Strategies Revisited, Step 4, Step 5, Concluding Thoughts
+- Volunteer: Leah
