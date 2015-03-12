@@ -21,7 +21,7 @@ Yes. We think behavior change is an important part of many NOAA Educators’ wor
 
 #### How much time is this going to take?
 
-We’ll walk through a module per month starting in April. For each of the four modules, there is a volunteer who has summarized their section. You will be able to watch a presentation of their summary with examples from their own program. We’ll also host a conference call once a month to discuss the module as a group. In total, it will take about 3 to 4 hours a month. 
+We’ll walk through a module per month starting in April. For each of the four modules, there is a volunteer who has summarized their section. You will be able to watch a presentation of their summary with examples from their own program. It will be pre-recorded so you will be able to watch at your convenience. We’ll also host a conference call once a month to discuss the module as a group. In total, it will take about 3 to 4 hours a month. 
 
 #### Where can I get started?
 
