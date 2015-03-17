@@ -5,3 +5,6 @@ Fostering Sustainable Behavior: Community-based Social Marketing. http://www.cbs
 
 World Development Report 2015: Mind, Society, and Behavior. http://www.worldbank.org/en/publication/wdr2015
 > This report aims to inspire and guide the researchers and practitioners who can help advance a new set of development approaches based on a fuller consideration of psychological and social influences. The title of this Report, Mind, Society, and Behavior, captures the idea that paying attention to how humans think (the processes of mind) and how history and context shape thinking (the influence of society) can improve the design and implementation of development policies and interventions that target human choice and action (behavior). 
+
+The Power of Habit: Why We Do What We Do in Life and Business. http://charlesduhigg.com/the-power-of-habit/
+> Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed. Distilling vast amounts of information into engrossing narratives that take us from the boardrooms of Procter & Gamble to sidelines of the NFL to the front lines of the civil rights movement, Duhigg presents a whole new understanding of human nature and its potential.
