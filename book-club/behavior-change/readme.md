@@ -23,7 +23,7 @@ Course participants need to arrange to have reliable internet access through the
 - Case Study 2
 - Final Project Template
 - Frequently Asked Questions
-- 
+- Bibliography
 
 ## General Book Club Policies
 
