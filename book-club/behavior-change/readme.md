@@ -24,12 +24,12 @@ The book club activities will take about 6 to 8 hours a month.  Time will includ
 One of the most critical elements of the book club will be your personal contribution to the course through consistent postings to listserv, as well as participation during conference call discussions.
 
 ## Materials
-- Schedule
+- [Schedule][2]
 - Case Study 1
 - Case Study 2
 - Final Project Template
-- Frequently Asked Questions
-- Bibliography
+- [Frequently Asked Questions][3]
+- [Bibliography][4]
 
 ## General Book Club Policies
 - There is no requirement to participate or complete all activities. You can start and finish on your own.
@@ -41,3 +41,6 @@ One of the most critical elements of the book club will be your personal contrib
 If you have questions, please contact John Baek john.baek@noaa.gov.  
 
 [1]:http://www.cbsm.com/pages/guide/preface/
+[2]:https://github.com/noaaedeval/noaa-educators-network/blob/master/book-club/behavior-change/schedule.md
+[3]:https://github.com/noaaedeval/noaa-educators-network/blob/master/book-club/behavior-change/faqs.md
+[4]:https://github.com/noaaedeval/noaa-educators-network/blob/master/book-club/behavior-change/bibliography.md
