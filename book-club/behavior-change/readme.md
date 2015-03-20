@@ -7,12 +7,11 @@ Instead of reading a book a month, we’ve taken one book and broken it up into 
 
 ## Details
 The book club activities will take about 6 to 8 hours a month.  Time will include:
-- We’ll go through a module every two weeks starting in April, so the book club will run for about three months.
-- You will be able to watch a presentation of each section summarized with examples from NOAA programs. It will be pre-recorded so you will be able to watch at your convenience. 
-- We’ll also host a conference call for each module as an opportunity for you to discuss ideas with your peers.
+- Reading the chapters select for the module. We’ll go through a module every two weeks starting in April, so the book club will run for about three months.
+- Watch presentations of each section summarized with examples from NOAA programs. It will be pre-recorded so you will be able to watch at your convenience. 
+- Join a conference call to discuss ideas from the module with your peers.
+- The final project is a practical application of lessons from the book, translating what you learned into a usable strategy for yourself and your program. The project must address a real problem and real barriers and be able to be implemented within the reasonable set of resources of the players for whom you propose the strategy. The project can be plan for activities in the future or a case study of a project that has already occurred.
 - **Participation**: One of the most critical elements of the book club will be your personal contribution to the course through consistent postings to listserv, as well as participation during conference call discussions.
-- The last module will be a final project. 
-> This final project is a practical application of lessons from the book, translating what you learn into a usable strategy for yourself and your program. The project must address a real problem and real barriers and be able to be implemented within the reasonable set of resources of the players for whom you propose the strategy. The project can be plan for activities in the future or a case study of a project that has already occurred.
 
 ## Schedule
 - Module 1 - Selecting Behaviors
