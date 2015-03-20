@@ -1,6 +1,13 @@
 # About Behavior Change Book Club
 
-## Project Description
+## Description
+This book club guides NOAA Educators through a practical introduction to the strategies, methods, and tools of environmental communication that effectively lead to changes in behavior, primarily using social marketing. The knowledge gained through the book club's readings, presentations and discussions will benefit all practicing outreach and education professionals faced with the challenge of changing behaviors.
+
+Instead of reading a book a month, we’ve taken one book and broken it up into four parts. We’ve selected the online book called Fostering Sustainable Behaviors. This book club will run for about two months is entirely online, in a distance learning format, with both asynchronous and synchronous portions. We’ll walk through a module every two weeks starting in April. You will be able to watch a presentation of each section summarized with examples from NOAA programs. It will be pre-recorded so you will be able to watch at your convenience. We’ll also host a conference call for each module as an opportunity for you to discuss ideas with your peers. In total, it will take about 6 to 8 hours a month.
+
+ 
+
+
 As part of the next phase of the NOAA Educators Network webinar series, we're working on a series about Fostering Behavior Change. Capacity-building webinars through the NOAA Educators Network based loosely on an online course offered by Duke called [Environmental Communication for Behavior Change course]  (http://nicholas.duke.edu/del/environmental-communication-behavior-change) Network members reads the course's primary text, then review, discuss and walkthrough the book in 3 or 4 sections over a few months. The text is free and available online: (http://www.cbsm.com/pages/guide/preface/)
 
 Not exactly sure how best to facilitate the discussion element, still mulling over a few options. Have begun discussions to connect with Regional working groups to host conversations.
