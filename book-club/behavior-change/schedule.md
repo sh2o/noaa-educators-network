@@ -2,16 +2,16 @@
 - About Book Club, materials, schedule, instructions
 - Watch presentation
 
-## April - Module 1
+## Module 1
 - Read these chapters
   - [Fostering Sustainable Behaviors][1]
   - [Step 1: Selecting Behaviors][2]
-  - [Step 2: Identifying Barriers and Results][3]
+  - [Step 2: Identifying Barriers and Benefits][3]
 - Volunteer: Mark Wiley, New Hampshire Sea Grant
 - Watch Presentation
 - Discuss Module 1, conference call on April XX, 2015 from #-#pm ET
 
-## May - Module 2
+## Module 2
 - Read these chapters
   - [Step 3: Developing Strategies][4]
   - [Commitment: Good Intentions to Action][5]
@@ -21,7 +21,7 @@
 - Watch Presentation
 - Discuss Module 2, conference call on May XX, 2015 from #-#pm ET
 
-## June - Module 3
+## Module 3
 - Read these chapters
   - [Prompting: Remembering to Act][8]
   - [Communication: Creating Effective Messages][9]
@@ -31,7 +31,7 @@
 - Watch Presentation
 - Discuss Module 3, conference call on June XX, 2015 from #-#pm ET
 
-## July - Module 4
+## Module 4
 - Read these chapters
   - [Developing Strategies Revisited][12]
   - [Step 4: Piloting][13]
@@ -41,7 +41,7 @@
 - Watch Presentation
 - Discuss Module 4, conference call on July XX, 2015 from #-#pm ET
 
-## August - Final Project
+## Module 5 - Final Project
 - Develop communication plan for behavior change (see examples)
 - Instructions
 - Rubric, Bonus Points for each collaboration with NOAA Educator.
@@ -49,7 +49,7 @@
 
 [1]:http://www.cbsm.com/pages/guide/fostering-sustainable-behavior/
 [2]:http://www.cbsm.com/pages/guide/step-1:-selecting-behaviors/
-[3]:http://www.cbsm.com/pages/guide/step-1:-selecting-behaviors/
+[3]:http://www.cbsm.com/pages/guide/step-2:-identifying-barriers-and-benefits/
 [4]:http://www.cbsm.com/pages/guide/step-3:-developing-strategies/
 [5]:http://www.cbsm.com/pages/guide/commitment:-good-intentions-to-action/
 [6]:http://www.cbsm.com/pages/guide/social-norms:-building-community-support/
