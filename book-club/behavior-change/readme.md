@@ -1,7 +1,7 @@
 # Behavior Change Book Club
 
 ## Description
-This book club guides NOAA Educators through a practical introduction to the strategies, methods, and tools of environmental communication that effectively lead to changes in behavior, primarily using social marketing. The knowledge gained through the book club's readings, presentations and discussions will benefit all practicing outreach and education professionals faced with the challenge of changing behaviors.
+This book club provides NOAA Educators with a practical introduction to the strategies, methods, and tools of environmental communication that effectively lead to changes in behavior, primarily using social marketing. The knowledge gained through the book club's readings, presentations and discussions will benefit all practicing outreach and education professionals faced with the challenge of changing behaviors.
 
 Instead of reading a book a month, we’ve taken one book and broken it up into four parts plus a final project. We’ve selected the free online book, [Fostering Sustainable Behaviors][1]. It will be entirely online, in a distance learning format, with both asynchronous and synchronous portions. 
 
