@@ -15,8 +15,13 @@
 [Wide Angle Lens][5]. Frameworks Institute.
 > A highly visual, multimedia learning module that explores the difference between episodic and thematic storytelling. Grounded in scholarship, and filled with interactive features that build communicators’ ability to discern the frame effects of the storytelling choices common in media and advocacy, this course fosters skills in a key aspect of strategic framing. This resource is designed to help advocates distinguish between more and less effective ways of establishing a narrative that sets up policy thinking.
 
+[Who Rules the Earth? How Social Rules Shape our Planet and our Lives][6]. Paul F. Steinberg.
+
+> Steinberg emphasizes the need to change the rules that guide human behavior and shape how we interact with the planet. Drawing together research findings from across the social sciences, the book helps readers to “see” the social rules that pattern our physical reality and shows why these are the big levers that will ultimately determine the prospects for sustainability. Social rules are humanly devised constraints that, like invisible threads, tug at us as we go about our daily lives and make coordinated social activity possible. We know them by familiar names like city ordinances, product design standards, purchasing agreements, public policies, cultural norms, or national constitutions. 
+
 [1]:http://www.cbsm.com/pages/guide/preface/
 [2]:http://www.worldbank.org/en/publication/wdr2015
 [3]:http://charlesduhigg.com/the-power-of-habit/
 [4]:http://books.simonandschuster.com/Diffusion-of-Innovations-5th-Edition/Everett-M-Rogers/9780743222099
 [5]:http://www.frameworksinstitute.org/storytelling.html
+[6]:http://www.paulsteinberg.org/books/
