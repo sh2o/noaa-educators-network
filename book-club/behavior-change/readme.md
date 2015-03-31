@@ -34,6 +34,10 @@ The book club activities will take about 6 to 8 hours a month.  Time will includ
 - Cost: Free. 
 - Feel free to reuse and repackage the materials for your own needs. 
 
+## Sign-up Sheet
+Sign up and let us know that you'd like to participate and what your interests are. Knowing who and how many people are interested helps us make decisions about how to run book club activities. 
+- [Sign-up Sheet][5]
+
 ## Contact Information
 If you have questions, please contact John Baek john.baek@noaa.gov.  
 
@@ -41,3 +45,4 @@ If you have questions, please contact John Baek john.baek@noaa.gov.
 [2]:https://github.com/noaaedeval/noaa-educators-network/blob/master/book-club/behavior-change/schedule.md
 [3]:https://github.com/noaaedeval/noaa-educators-network/blob/master/book-club/behavior-change/faqs.md
 [4]:https://github.com/noaaedeval/noaa-educators-network/blob/master/book-club/behavior-change/bibliography.md
+[5]:https://docs.google.com/forms/d/1eN6p13hEM4vTnUi4rSMM2aK1R_vJ5h-woFlCO-Zkr4s/viewform
