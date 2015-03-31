@@ -1,31 +1,27 @@
-## March - Introduction
-- About Book Club, materials, schedule, instructions
+## Module one - Introduction
+- Read this chapter
+  - [Fostering Sustainable Behaviors][1]
 - Watch presentation
 
-## Module 1
+## Module Two - Steps 1 and 2
 - Read these chapters
-  - [Fostering Sustainable Behaviors][1]
   - [Step 1: Selecting Behaviors][2]
   - [Step 2: Identifying Barriers and Benefits][3]
-- Connection to Case Study 1
-- Connection to Case Study 2
-- Volunteer: Mark Wiley, New Hampshire Sea Grant
+- Volunteer: Pat Drupp
 - Watch Presentation
 - Discuss Module 1, conference call on April XX, 2015 from #-#pm ET
 
-## Module 2
+## Module Three - Step 3, Part 1
 - Read these chapters
   - [Step 3: Developing Strategies][4]
   - [Commitment: Good Intentions to Action][5]
   - [Social Norms: Building Community Support][6]
   - [Social Diffusion: Speeding Adoption][7]
-- Connection to Case Study 1
-- Connection to Case Study 2
 - Volunteer: Bronwen Rice, B-WET Program
 - Watch Presentation
 - Discuss Module 2, conference call on May XX, 2015 from #-#pm ET
 
-## Module 3
+## Module Four - Step 3, Part 2
 - Read these chapters
   - [Prompting: Remembering to Act][8]
   - [Communication: Creating Effective Messages][9]
@@ -37,19 +33,17 @@
 - Watch Presentation
 - Discuss Module 3, conference call on June XX, 2015 from #-#pm ET
 
-## Module 4
+## Module Five - Steps 4 and 5
 - Read these chapters
   - [Developing Strategies Revisited][12]
   - [Step 4: Piloting][13]
   - [Step 5: Broad Scale Implementation][14]
   - [Concluding Thoughts][15]
-- Connection to Case Study 1
-- Connection to Case Study 2
 - Volunteer: Leah Henry, Marine Debris Program
 - Watch Presentation
 - Discuss Module 4, conference call on July XX, 2015 from #-#pm ET
 
-## Module 5 - Final Project
+## Module Six - Final Project
 - Develop communication plan for behavior change (see examples)
 - Instructions
 - Bonus Points for each collaboration with NOAA Educator.
