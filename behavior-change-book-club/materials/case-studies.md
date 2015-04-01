@@ -12,9 +12,15 @@ Step 3 |
 Step 4 | 
 Step 5 |
 
-## Case Study 2
+## Ocean Guardian Schools
 
-## Case Study 3
+http://sanctuaries.noaa.gov/news/features/1011children.html
+
+http://www.montereycountyweekly.com/news/cover/the-monterey-peninsula-has-become-the-epicenter-of-a-student/article_7065627a-d352-11e4-939c-030db08ef2f0.html
+
+## MOANA Group (Making Ocean Acidification Nationally Aware)
+
+http://theoceanproject.org/2015/03/oregon-coast-aquarium-what-we-learned/
 
 
 
