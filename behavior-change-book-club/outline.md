@@ -3,7 +3,7 @@
 | Dates | Activities |
 | --- | --- |
 | April 6 - April 17 | Read the [Introduction][1] |
-| | Watch presentation |
+| " | Watch presentation |
 | TBD | Conference Call Discussion |
 
 ## Module Two - Steps 1 and 2
