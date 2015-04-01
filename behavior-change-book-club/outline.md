@@ -13,7 +13,7 @@
 | " | Watch presentation |
 | TBD April 29-ish | Conference Call Discussion |
 
-- Volunteer: Pat Drupp, Knauss Fellow
+- Volunteer: Pat Drupp, Office of Education Knauss Fellow
 
 ## Module Three - Step 3, Part 1
 | Dates | Activities |
@@ -22,7 +22,7 @@
 | " | Watch presentation |
 | TBD May 14-ish| Conference Call Discussion |
 
-- Volunteer: Jon Lilley
+- Volunteer: Jon Lilley, Office of Education
 
 ## Module Four - Step 3, Part 2
 | Dates | Activities |
