@@ -1,9 +1,11 @@
-## Module one - Introduction
+## Module One - Introduction
+- April 6 - April 17
 - Read this chapter
   - [Fostering Sustainable Behaviors][1]
 - Watch presentation
 
 ## Module Two - Steps 1 and 2
+- April 20 - May 1
 - Read these chapters
   - [Step 1: Selecting Behaviors][2]
   - [Step 2: Identifying Barriers and Benefits][3]
@@ -12,6 +14,7 @@
 - Discuss Module 1, conference call on April XX, 2015 from #-#pm ET
 
 ## Module Three - Step 3, Part 1
+- May 4 - May 15
 - Read these chapters
   - [Step 3: Developing Strategies][4]
   - [Commitment: Good Intentions to Action][5]
@@ -22,6 +25,7 @@
 - Discuss Module 2, conference call on May XX, 2015 from #-#pm ET
 
 ## Module Four - Step 3, Part 2
+- May 18 - 29
 - Read these chapters
   - [Prompting: Remembering to Act][8]
   - [Communication: Creating Effective Messages][9]
@@ -34,6 +38,7 @@
 - Discuss Module 3, conference call on June XX, 2015 from #-#pm ET
 
 ## Module Five - Steps 4 and 5
+- June 1 - June 12
 - Read these chapters
   - [Developing Strategies Revisited][12]
   - [Step 4: Piloting][13]
@@ -44,6 +49,7 @@
 - Discuss Module 4, conference call on July XX, 2015 from #-#pm ET
 
 ## Module Six - Final Project
+- June 15 - June 26
 - Develop communication plan for behavior change (see examples)
 - Instructions
 - Bonus Points for each collaboration with NOAA Educator.
