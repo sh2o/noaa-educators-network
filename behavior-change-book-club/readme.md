@@ -36,12 +36,12 @@ The book club activities will take about 6 to 8 hours a month.  Time will includ
 If you have questions, please contact John Baek john.baek@noaa.gov.  
 
 [1]:http://www.cbsm.com/pages/guide/preface/
-[2]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/outline.md
-[4]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/bibliography.md
+[2]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md
+[4]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/bibliography.md
 [5]:https://docs.google.com/forms/d/1eN6p13hEM4vTnUi4rSMM2aK1R_vJ5h-woFlCO-Zkr4s/viewform
-[6]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/outline.md#module-one---introduction
-[7]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/outline.md#module-two---steps-1-and-2
-[8]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/outline.md#module-three---step-3-part-1
-[9]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/outline.md#module-four---step-3-part-2
-[10]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/outline.md#module-five---steps-4-and-5
-[11]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/outline.md#module-six---final-project
+[6]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-one---introduction
+[7]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-two---steps-1-and-2
+[8]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-three---step-3-part-1
+[9]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-four---step-3-part-2
+[10]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-five---steps-4-and-5
+[11]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-six---final-project
