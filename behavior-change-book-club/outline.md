@@ -13,12 +13,16 @@
 | " | Watch presentation |
 | TBD April 29-ish | Conference Call Discussion |
 
+- Volunteer: Pat Drupp, Knauss Fellow
+
 ## Module Three - Step 3, Part 1
 | Dates | Activities |
 |:---:| --- |
 | May 4 - May 15 | Read the [Step 3][4], [Commitment][5], [Social Norms][6], and [Social Diffusion][7] |
 | " | Watch presentation |
 | TBD May 14-ish| Conference Call Discussion |
+
+- Volunteer: Jon Lilley
 
 ## Module Four - Step 3, Part 2
 | Dates | Activities |
@@ -27,7 +31,7 @@
 | " | Watch presentation |
 | TBD May 28-ish | Conference Call Discussion |
 
-- Volunteer: Melanie Reding, Jacques Cousteau NERR- 
+- Volunteer: Melanie Reding, Jacques Cousteau NERR 
 
 ## Module Five - Steps 4 and 5
 | Dates | Activities |
