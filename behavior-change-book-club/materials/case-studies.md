@@ -6,7 +6,7 @@ The Alice Ferguson Foundation and NOAA Marine Debris Program teamed up to educat
 
 Step | Description 
 --- | ---
-Step 1 | 
+Step 1 | Youth and teenage littering 
 Step 2 |
 Step 3 |
 Step 4 | 
