@@ -1,6 +1,9 @@
 ## Module One - Introduction
-- April 6 - April 17
-- Read this chapter
+
+| Dates | Activities |
+| --- | --- |
+| April 6 - April 17 | Read this chapter |
+
   - [Fostering Sustainable Behaviors][1]
 - Watch presentation
 
