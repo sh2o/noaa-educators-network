@@ -4,51 +4,39 @@
 |:---:| --- |
 | April 6 - April 17 | Read the [Introduction][1] |
 | " | Watch presentation |
-| TBD | Conference Call Discussion |
+| TBD April 16-ish | Conference Call Discussion |
 
 ## Module Two - Steps 1 and 2
-- April 20 - May 1
-- Read these chapters
-  - [Step 1: Selecting Behaviors][2]
-  - [Step 2: Identifying Barriers and Benefits][3]
-- Volunteer: Pat Drupp
-- Watch Presentation
-- Discuss Module 1, conference call on April XX, 2015 from #-#pm ET
+| Dates | Activities |
+|:---:| --- |
+| April 20 - May 1 | Read [Step 1][2] and [Step 2][3] |
+| " | Watch presentation |
+| TBD April 29-ish | Conference Call Discussion |
 
 ## Module Three - Step 3, Part 1
-- May 4 - May 15
-- Read these chapters
-  - [Step 3: Developing Strategies][4]
-  - [Commitment: Good Intentions to Action][5]
-  - [Social Norms: Building Community Support][6]
-  - [Social Diffusion: Speeding Adoption][7]
-- Volunteer: Bronwen Rice, B-WET Program
-- Watch Presentation
-- Discuss Module 2, conference call on May XX, 2015 from #-#pm ET
+| Dates | Activities |
+|:---:| --- |
+| May 4 - May 15 | Read the [Step 3][4], [Commitment][5], [Social Norms][6], and [Social Diffusion][7] |
+| " | Watch presentation |
+| TBD May 14-ish| Conference Call Discussion |
 
 ## Module Four - Step 3, Part 2
-- May 18 - 29
-- Read these chapters
-  - [Prompting: Remembering to Act][8]
-  - [Communication: Creating Effective Messages][9]
-  - [Incentives: Enhancing Motivation to Act][10]
-  - [Convenience: Making It Easy to Act][11]
-- Connection to Case Study 1
-- Connection to Case Study 2
-- Volunteer: Melanie Reding, Jacques Cousteau NERR
-- Watch Presentation
-- Discuss Module 3, conference call on June XX, 2015 from #-#pm ET
+| Dates | Activities |
+|:---:| --- |
+| May 18 - 29 | Read the [Prompting][8], [Communication][9], [Incentives][10], [Convenience][11] |
+| " | Watch presentation |
+| TBD May 28-ish | Conference Call Discussion |
+
+- Volunteer: Melanie Reding, Jacques Cousteau NERR- 
 
 ## Module Five - Steps 4 and 5
-- June 1 - June 12
-- Read these chapters
-  - [Developing Strategies Revisited][12]
-  - [Step 4: Piloting][13]
-  - [Step 5: Broad Scale Implementation][14]
-  - [Concluding Thoughts][15]
+| Dates | Activities |
+|:---:| --- |
+| June 1 - June 12 | Read [Strategies Revisited][12], [Step 4][13], [Step 5][14], and [Conclusion][15]  |
+| " | Watch presentation |
+| TBD June 11-ish | Conference Call Discussion |
+
 - Volunteer: Leah Henry, Marine Debris Program
-- Watch Presentation
-- Discuss Module 4, conference call on July XX, 2015 from #-#pm ET
 
 ## Module Six - Final Project
 - June 15 - June 26
