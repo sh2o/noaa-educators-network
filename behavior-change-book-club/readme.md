@@ -36,8 +36,8 @@ The book club activities will take about 6 to 8 hours a month.  Time will includ
 If you have questions, please contact John Baek john.baek@noaa.gov.  
 
 [1]:http://www.cbsm.com/pages/guide/preface/
-[2]:https://github.com/noaaedeval/noaa-educators-network/behavior-change-book-club/outline.md
-[4]:https://github.com/noaaedeval/noaa-educators-network/behavior-change-book-club/bibliography.md
+[2]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/outline.md
+[4]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/bibliography.md
 [5]:https://docs.google.com/forms/d/1eN6p13hEM4vTnUi4rSMM2aK1R_vJ5h-woFlCO-Zkr4s/viewform
 [6]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/outline.md#module-one---introduction
 [7]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/outline.md#module-two---steps-1-and-2
