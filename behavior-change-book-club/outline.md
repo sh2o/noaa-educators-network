@@ -1,7 +1,7 @@
 ## Module One - Introduction
 
 | Dates | Activities |
-|: --- :| --- |
+|:---:| --- |
 | April 6 - April 17 | Read the [Introduction][1] |
 | " | Watch presentation |
 | TBD | Conference Call Discussion |
