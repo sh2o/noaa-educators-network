@@ -14,11 +14,12 @@ The book club activities will take about 6 to 8 hours a month.  Time will includ
 - **Participation**: One of the most critical elements of the book club will be your personal contribution to the course through consistent postings to listserv, as well as participation during conference call discussions.
 
 ## Schedule
-- Module 1 - Selecting Behaviors
-- Module 2 - Developing Strategies Part 1
-- Module 3 - Developing Strategies Part 2
-- Module 4 - Piloting and Implementation
-- Module 5 - Final Project
+- Module One - Introduction
+- Module Two - Steps 1 and 2
+- Module Three - Step 3, Part 1
+- Module Four - Step 3, Part 2
+- Module Five - Steps 4 and 5
+- Module Six - Final Project
 
 ## Materials
 - [Schedule][2]
