@@ -8,6 +8,7 @@ Instead of reading a book a month, we’ve taken one book and broken it up into 
 ## Materials
 - [Outline][2]
 - [Bibliography][4]
+- [Sign-up Sheet][5]
 
 ## Schedule
 - [Module One - Introduction][6]
@@ -30,10 +31,6 @@ The book club activities will take about 6 to 8 hours a month.  Time will includ
 - Conference Calls: Every effort is made to be accomodate to all timezones. We realize not everyone can jump on a call in the afternoon. We encourage the development of local calls with people in your region. 
 - Cost: Free. 
 - Feel free to reuse and repackage the materials for your own needs. 
-
-## Sign-up Sheet
-Sign up and let us know that you'd like to participate and what your interests are. Knowing who and how many people are interested helps us make decisions about how to run book club activities. 
-- [Sign-up Sheet][5]
 
 ## Contact Information
 If you have questions, please contact John Baek john.baek@noaa.gov.  
