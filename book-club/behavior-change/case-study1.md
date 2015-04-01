@@ -16,3 +16,6 @@ Reducing Marine Debris by Targeting Youth and Teenage Litterers
 #### Step 5: Broad Scale Implementation
 
 [1]:http://marinedebris.noaa.gov/regional-coordination/reducing-marine-debris-targeting-youth-and-teenage-litterers
+
+We agreed to use the Alice Ferguson Foundation project as a case study, here's a link to the project summary and additional docs are attached:
+http://marinedebris.noaa.gov/regional-coordination/reducing-marine-debris-targeting-youth-and-teenage-litterers
