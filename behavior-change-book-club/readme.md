@@ -6,6 +6,7 @@ This book club provides NOAA Educators with a practical introduction to the stra
 Instead of reading a book a month, we’ve taken one book and broken it up into four parts plus a final project. We’ve selected the free online book, [Fostering Sustainable Behaviors][1]. It will be entirely online, in a distance learning format, with both asynchronous and synchronous portions. 
 
 ## Materials
+- [Book][1]
 - [Outline][2]
 - [Case Studies][12]
 - [Bibliography][4]
@@ -39,7 +40,7 @@ If you have questions, please contact John Baek john.baek@noaa.gov.
 [1]:http://www.cbsm.com/pages/guide/preface/
 [2]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md
 [4]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/bibliography.md
-[5]:https://docs.google.com/forms/d/1eN6p13hEM4vTnUi4rSMM2aK1R_vJ5h-woFlCO-Zkr4s/viewform
+[5]:http://goo.gl/T0Qrqr
 [6]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-one---introduction
 [7]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-two---steps-1-and-2
 [8]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-three---step-3-part-1
