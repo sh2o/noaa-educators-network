@@ -22,7 +22,7 @@
 | " | Watch presentation |
 | TBD May 14-ish| Conference Call Discussion |
 
-- Volunteer: Jon Lilley, Office of Education
+- Volunteer: Jon Lilley, Office of Education; Bronwen Rice, BWET
 
 ## Module Four - Step 3, Part 2
 | Dates | Activities |
