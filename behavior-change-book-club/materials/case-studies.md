@@ -16,7 +16,7 @@ Step 5 |
 
 Step | Description 
 --- | ---
-Step 1 | School and the Pacific Grove City Council to ban latex balloons at outdoor activities 
+Step 1 | School and the Pacific Grove City Council ban latex balloons at outdoor activities.
 Step 2 |
 Step 3 |
 Step 4 | 
