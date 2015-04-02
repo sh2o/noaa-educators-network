@@ -3,7 +3,7 @@
 | Dates | Activities |
 |:---:| --- |
 | April 6 - April 17 | Read the [Introduction][1] |
-| " | Watch presentation |
+| " | Watch [Presentation][16] |
 | TBD April 16-ish | Conference Call Discussion |
 
 ## Module Two - Steps 1 and 2
@@ -119,3 +119,4 @@ What was the scope of full-scale implementation of your project, scaling up from
 [13]:http://www.cbsm.com/pages/guide/step-4:-piloting/
 [14]:http://www.cbsm.com/pages/guide/step-5:-broad-scale-implementation/
 [15]:http://www.cbsm.com/pages/guide/concluding-thoughts/
+[16]:http://connectpro46305642.adobeconnect.com/r5t6xpyu1lj/
