@@ -7,6 +7,7 @@ Instead of reading a book a month, we’ve taken one book and broken it up into 
 
 ## Materials
 - [Outline][2]
+- [Case Studies][12]
 - [Bibliography][4]
 - [Sign-up Sheet][5]
 
@@ -45,3 +46,4 @@ If you have questions, please contact John Baek john.baek@noaa.gov.
 [9]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-four---step-3-part-2
 [10]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-five---steps-4-and-5
 [11]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/outline.md#module-six---final-project
+[12]:https://github.com/noaaedeval/noaa-educators-network/blob/master/behavior-change-book-club/materials/case-studies.md
