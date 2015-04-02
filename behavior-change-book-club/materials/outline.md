@@ -119,4 +119,4 @@ What was the scope of full-scale implementation of your project, scaling up from
 [13]:http://www.cbsm.com/pages/guide/step-4:-piloting/
 [14]:http://www.cbsm.com/pages/guide/step-5:-broad-scale-implementation/
 [15]:http://www.cbsm.com/pages/guide/concluding-thoughts/
-[16]:http://connectpro46305642.adobeconnect.com/r5t6xpyu1lj/
+[16]:http://connectpro46305642.adobeconnect.com/p45n3ltlx6c/
