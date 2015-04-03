@@ -15,6 +15,10 @@
 [Wide Angle Lens][5]. Frameworks Institute.
 > A highly visual, multimedia learning module that explores the difference between episodic and thematic storytelling. Grounded in scholarship, and filled with interactive features that build communicators’ ability to discern the frame effects of the storytelling choices common in media and advocacy, this course fosters skills in a key aspect of strategic framing. This resource is designed to help advocates distinguish between more and less effective ways of establishing a narrative that sets up policy thinking.
 
+[What We Think about When We Try Not to Think about Global Warming: Toward a New Psychology of Climate Action][7]. Per Espen Stokes.
+
+> Why does knowing more mean believing and doing less? It is a catch-22 that starts, says psychologist and economist Per Espen Stoknes, from an inadequate understanding of the way most humans think, act, and live in the world around them. With dozens of examples from the private sector to government agencies Stoknes shows how to retell the story of climate change and, at the same time, create positive, meaningful actions that can be supported even by deniers.
+
 [Who Rules the Earth? How Social Rules Shape our Planet and our Lives][6]. Paul F. Steinberg.
 
 > Steinberg emphasizes the need to change the rules that guide human behavior and shape how we interact with the planet. Drawing together research findings from across the social sciences, the book helps readers to “see” the social rules that pattern our physical reality and shows why these are the big levers that will ultimately determine the prospects for sustainability. Social rules are humanly devised constraints that, like invisible threads, tug at us as we go about our daily lives and make coordinated social activity possible. We know them by familiar names like city ordinances, product design standards, purchasing agreements, public policies, cultural norms, or national constitutions. 
@@ -25,3 +29,4 @@
 [4]:http://books.simonandschuster.com/Diffusion-of-Innovations-5th-Edition/Everett-M-Rogers/9780743222099
 [5]:http://www.frameworksinstitute.org/storytelling.html
 [6]:http://www.paulsteinberg.org/books/
+[7]:http://www.rainydaybooks.com/book/9781603585835
