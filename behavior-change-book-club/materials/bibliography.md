@@ -23,6 +23,8 @@
 [Wide Angle Lens][5]. Frameworks Institute.
 > A highly visual, multimedia learning module that explores the difference between episodic and thematic storytelling. Grounded in scholarship, and filled with interactive features that build communicators’ ability to discern the frame effects of the storytelling choices common in media and advocacy, this course fosters skills in a key aspect of strategic framing. This resource is designed to help advocates distinguish between more and less effective ways of establishing a narrative that sets up policy thinking.
 
+[Health Behavior and Health Education: Theory, Research, and Practice (4th Edition)][8]. Karen Glanz, Barbara Rimer, K Viswanath (Eds.) 2008. Ch 19 "Social Marketing" pp 453-461.
+
 [1]:http://www.cbsm.com/pages/guide/preface/
 [2]:http://www.worldbank.org/en/publication/wdr2015
 [3]:http://charlesduhigg.com/the-power-of-habit/
@@ -30,3 +32,4 @@
 [5]:http://www.frameworksinstitute.org/storytelling.html
 [6]:http://www.paulsteinberg.org/books/
 [7]:http://www.rainydaybooks.com/book/9781603585835
+[8]:http://www.wiley.com/WileyCDA/WileyTitle/productCd-0787996149.html
