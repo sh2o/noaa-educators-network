@@ -24,6 +24,7 @@
 > A highly visual, multimedia learning module that explores the difference between episodic and thematic storytelling. Grounded in scholarship, and filled with interactive features that build communicators’ ability to discern the frame effects of the storytelling choices common in media and advocacy, this course fosters skills in a key aspect of strategic framing. This resource is designed to help advocates distinguish between more and less effective ways of establishing a narrative that sets up policy thinking.
 
 [Health Behavior and Health Education: Theory, Research, and Practice (4th Edition)][8]. Karen Glanz, Barbara Rimer, K Viswanath (Eds.) 2008. Ch 19 "Social Marketing" pp 453-461.
+> This edition provides a comprehensive, highly accessible, and in-depth analysis of health behavior theories that are most relevant to health education. This essential resource includes the most current information on theory, research, and practice at individual, interpersonal, and community and group levels. This edition includes substantial new content on current and emerging theories of health communication, e-health, culturally diverse communities, health promotion, the impact of stress, the importance of networks and community, social marketing, and evaluation.
 
 [1]:http://www.cbsm.com/pages/guide/preface/
 [2]:http://www.worldbank.org/en/publication/wdr2015
