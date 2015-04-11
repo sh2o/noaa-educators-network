@@ -26,6 +26,9 @@
 [Health Behavior and Health Education: Theory, Research, and Practice (4th Edition)][8]. Karen Glanz, Barbara Rimer, K Viswanath (Eds.) 2008. Ch 19 "Social Marketing" pp 453-461.
 > This edition provides a comprehensive, highly accessible, and in-depth analysis of health behavior theories that are most relevant to health education. This essential resource includes the most current information on theory, research, and practice at individual, interpersonal, and community and group levels. This edition includes substantial new content on current and emerging theories of health communication, e-health, culturally diverse communities, health promotion, the impact of stress, the importance of networks and community, social marketing, and evaluation.
 
+[The Psychology of Climate Change Communication: A Guide for Scientists, Journalists, Educators, Political Aides, and the Interested Public][9]. Center for Research Environmental Decisions.
+> This guide combines laboratory and field research with real-world examples. It blends information from the broad spectrum of disciplines that CRED encompasses: psychology, anthropology, economics, history, environmental science and policy, and climate science. The guide’s purpose is to assist communicators in reaching two key audiences—the general public and decision makers from government and business—more effectively. The principles found in this guide should help make climate change presentations and discussions more effective.
+
 [1]:http://www.cbsm.com/pages/guide/preface/
 [2]:http://www.worldbank.org/en/publication/wdr2015
 [3]:http://charlesduhigg.com/the-power-of-habit/
@@ -34,3 +37,4 @@
 [6]:http://www.paulsteinberg.org/books/
 [7]:http://www.rainydaybooks.com/book/9781603585835
 [8]:http://www.wiley.com/WileyCDA/WileyTitle/productCd-0787996149.html
+[9]:http://guide.cred.columbia.edu/
