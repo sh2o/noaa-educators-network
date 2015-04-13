@@ -4,14 +4,13 @@
 |:---:| --- |
 | April 6 - April 17 | Read the [Introduction][1] |
 | " | Watch [Presentation - 15 min][16] |
-| TBD April 16-ish | Conference Call Discussion |
 
 ## Module Two - Steps 1 and 2
 | Dates | Activities |
 |:---:| --- |
 | April 20 - May 1 | Read [Step 1][2] and [Step 2][3] |
 | " | Watch [presentation - 50 min][17] |
-| TBD April 29-ish | Conference Call Discussion |
+| Wed April 29 3-4pm ET  | Discussion Call  |
 
 - Volunteer: Pat Drupp, Office of Education Knauss Fellow
 
@@ -20,7 +19,7 @@
 |:---:| --- |
 | May 4 - May 15 | Read the [Step 3][4], [Commitment][5], [Social Norms][6], and [Social Diffusion][7] |
 | " | Watch presentation |
-| TBD May 14-ish| Conference Call Discussion |
+| TBD May 14-ish| Discussion Call  |
 
 - Volunteer: Jon Lilley, Office of Education; Bronwen Rice, BWET
 
@@ -29,7 +28,7 @@
 |:---:| --- |
 | May 18 - 29 | Read the [Prompting][8], [Communication][9], [Incentives][10], [Convenience][11] |
 | " | Watch presentation |
-| TBD May 28-ish | Conference Call Discussion |
+| TBD May 28-ish | Discussion Call  |
 
 - Volunteer: Melanie Reding, Jacques Cousteau NERR 
 
@@ -38,7 +37,7 @@
 |:---:| --- |
 | June 1 - June 12 | Read [Strategies Revisited][12], [Step 4][13], [Step 5][14], and [Conclusion][15]  |
 | " | Watch presentation |
-| TBD June 11-ish | Conference Call Discussion |
+| TBD June 11-ish | Discussion Call  |
 
 - Volunteer: Leah Henry, Marine Debris Program
 
