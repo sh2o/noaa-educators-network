@@ -5,6 +5,8 @@
 | April 6 - April 17 | Read the [Introduction][1] |
 | " | Watch [Presentation - 15 min][16] |
 
+- Volunteer: John Baek, Office of Education
+
 ## Module Two - Steps 1 and 2
 | Dates | Activities |
 |:---:| --- |
@@ -21,7 +23,7 @@
 | " | Watch presentation |
 | TBD May 14-ish| Discussion Call  |
 
-- Volunteer: Jon Lilley, Office of Education; Bronwen Rice, BWET
+- Volunteer: Jon Lilley, Office of Education; Bronwen Rice, B-WET
 
 ## Module Four - Step 3, Part 2
 | Dates | Activities |
