@@ -3,14 +3,14 @@
 | Dates | Activities |
 |:---:| --- |
 | April 6 - April 17 | Read the [Introduction][1] |
-| " | Watch [Presentation][16] |
+| " | Watch [Presentation - 15 min][16] |
 | TBD April 16-ish | Conference Call Discussion |
 
 ## Module Two - Steps 1 and 2
 | Dates | Activities |
 |:---:| --- |
 | April 20 - May 1 | Read [Step 1][2] and [Step 2][3] |
-| " | Watch presentation |
+| " | Watch [presentation - 50 min][17] |
 | TBD April 29-ish | Conference Call Discussion |
 
 - Volunteer: Pat Drupp, Office of Education Knauss Fellow
@@ -120,3 +120,4 @@ What was the scope of full-scale implementation of your project, scaling up from
 [14]:http://www.cbsm.com/pages/guide/step-5:-broad-scale-implementation/
 [15]:http://www.cbsm.com/pages/guide/concluding-thoughts/
 [16]:http://connectpro46305642.adobeconnect.com/p45n3ltlx6c/
+[17]:http://connectpro46305642.adobeconnect.com/p72kccr2xs7/
